@@ -1,11 +1,10 @@
 <img src="icon.png" align="right" />
 
-# Executive M.Tech in C.S.E, IIT(ISM)Dhanbad[2017-2020] 
+# 3-Year M.Tech,C.S.E, IIT(ISM)Dhanbad[2017-2020] 
 - Folders have self describing names.
 - Content is study materials(PPTs,PDFs), Referal Ebooks, Lab Programming done during the course.
-- I do hold copyright for the lab programs as they are done by me (although I have waived all such rights). But I do not hold any such 
-- copyrights for the ebooks (they are assembled from various sources) or other study materials (they are provided by the IIT-ISM 
-  faculties).
+- I do hold copyright for the lab programs as they are done by me (although I have waived all such rights). 
+- I do not hold any such copyrights for the ebooks (they are assembled from various sources) or other study materials (they are provided by the IIT-ISM faculties).
 
 ## License
 
