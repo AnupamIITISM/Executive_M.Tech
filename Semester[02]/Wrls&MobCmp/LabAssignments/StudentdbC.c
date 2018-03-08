@@ -37,7 +37,6 @@ int main()
 	{
 		int hSocket,numberToServer;
 		char serverResponse[100]={};
-		struct sockaddr_in server;
 		hSocket = createSocket();
 		if(hSocket == -1)
 			{
