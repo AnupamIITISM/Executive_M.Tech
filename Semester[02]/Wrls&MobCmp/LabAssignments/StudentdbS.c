@@ -29,7 +29,7 @@ int bindCreatedSocket(int hSocket)
 
 int main()
 	{
-		int socket_desc, client_sock, c, read_size,numberFromClient = -1,i=1;
+		int socket_desc, client_sock, c, numberFromClient = -1;
 		struct sockaddr_in server, client;
 		char serverResponse[100]={};
 		char* sdb[10];
