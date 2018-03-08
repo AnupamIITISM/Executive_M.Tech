@@ -35,7 +35,7 @@ int sendDataUsingSocket(int hSocket,int *number)
 
 int main()
 	{
-		int hSocket,read_size,numberToServer,n=0,i=1;
+		int hSocket,numberToServer;
 		char serverResponse[100]={};
 		struct sockaddr_in server;
 		hSocket = createSocket();
