@@ -1,0 +1,8 @@
+Attribute[2] == INNER_CITY and Attribute[3] == NO  =>  Attribute[0] = NO_CAR 
+Attribute[2] == INNER_CITY and Attribute[3] == YES  =>  Attribute[0] = YES_CAR 
+Attribute[2] == TOWN and Attribute[1] == FEMALE and Attribute[4] == 0  =>  Attribute[0] = NO_CAR 
+Attribute[2] == TOWN and Attribute[1] == FEMALE and Attribute[4] == 1  =>  Attribute[0] = NO_CAR 
+Attribute[2] == TOWN and Attribute[1] == FEMALE and Attribute[4] == 2  =>  Attribute[0] = NO_CAR 
+Attribute[2] == TOWN and Attribute[1] == FEMALE and Attribute[4] == 3  =>  Attribute[0] = NO_CAR 
+Attribute[2] == TOWN and Attribute[1] == MALE  =>  Attribute[0] = YES_CAR 
+Attribute[2] == RURAL  =>  Attribute[0] = NO_CAR 

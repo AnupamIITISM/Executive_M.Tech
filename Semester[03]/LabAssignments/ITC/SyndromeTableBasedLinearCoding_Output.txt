@@ -1,0 +1,18 @@
+>> SyndromeTableBasedLinearCoding
+
+recdata =
+
+     0     1     1     1     0     1     0
+
+Syndrome = 0 (decimal), 0  0  0 (binary)
+
+correctvector =
+
+     0     0     0     0     0     0     0
+
+
+correctedcode =
+
+     0     1     1     1     0     1     0
+
+>> 

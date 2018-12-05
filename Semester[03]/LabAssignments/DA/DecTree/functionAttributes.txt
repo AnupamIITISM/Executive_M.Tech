@@ -1,0 +1,5 @@
+2 Yes No
+3 Sunny Overcast Rain
+3 Hot Mild Cool
+2 High Normal
+2 Weak Strong

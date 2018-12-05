@@ -1,0 +1,43 @@
+>> HuffmanCoding
+
+S =
+
+     1     2     3     4     5     6
+
+
+P =
+
+    0.4000    0.2000    0.2000    0.0500    0.0500    0.1000
+
+
+codify = 
+
+    [1]    [         1]
+    [2]    [1x3 double]
+    [3]    [1x2 double]
+    [4]    [1x5 double]
+    [5]    [1x5 double]
+    [6]    [1x4 double]
+
+
+seq =
+
+     5     1     4     2
+
+
+encoded_msg =
+
+  Columns 1 through 13
+
+     0     0     1     1     0     1     0     0     1     1     1     0     0
+
+  Column 14
+
+     0
+
+
+decoded_msg =
+
+     5     1     4     2
+
+>> 

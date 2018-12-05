@@ -1,0 +1,28 @@
+>> ArithmaticCoding
+
+freq =
+
+    70    20    10
+
+
+seq =
+
+     2     3     1     3     3
+
+
+a_code =
+
+  Columns 1 through 13
+
+     1     1     1     0     0     1     0     0     0     1     1     0     0
+
+  Columns 14 through 21
+
+     0     1     0     0     1     0     0     0
+
+
+a_deco =
+
+     2     3     1     3     3
+
+>> 

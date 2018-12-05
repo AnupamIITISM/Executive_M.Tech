@@ -1,0 +1,34 @@
+>> LinearCoding
+
+k =
+
+     4
+
+Message: 
+data =
+
+     1
+     1
+     0
+     1
+
+Encoded linear code message is : 
+encodeddata =
+
+     0
+     0
+     1
+     1
+     1
+     0
+     1
+
+Decoded linear code message is : 
+decodedData =
+
+     1
+     1
+     0
+     1
+
+>> 
